@@ -3,7 +3,7 @@
 
 ## Header
 - Hi, my name is Basit Khan. 
-- I'm an AI engineer.
+- I'm an AI Engineer.
 - Shaping Tomorrow: Uniting AI and Human Innovation.
 
 ## About
