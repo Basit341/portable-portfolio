@@ -1,5 +1,5 @@
 ## Fake News Detection Bert finetuning
-Description
+Fine tune bert model to detect fake news.
 - Tags: NLP
 - Badges:
   - Kaggle Competition [blue]
@@ -7,7 +7,7 @@ Description
   - Link [https://github.com/Basit341/Fake-news-detection-NLP.git]
 
 ## Lenovo Phones Sentimental Analysis
-Description
+Sentimental analysis of lenovo phones customers feed back.
 - Tags: NLP
 - Badges:
   - Kaggle [blue]
@@ -15,7 +15,7 @@ Description
   - Link [https://github.com/Basit341/Lenovo-phones-sentimental-analysis-NLP.git]
 
 ## Detect AI Generated Text
-Description
+Fine tune Bert model to detect text either it is genetated by AI or not
 - Tags: NLP
 - Badges:
   - Kaggle Competition [blue]
@@ -23,7 +23,7 @@ Description
   - Link [https://github.com/Basit341/detect-ai-generated-text--kaggle-compitition.git]
 
 ## Career Councling
-Description
+Career councling streamlit app
 - Tags: NLP
 - Badges:
   - Bart finetuning [blue]
@@ -31,15 +31,15 @@ Description
   - Link [https://github.com/Basit341/career-councling-chatbot-using-bart-seq2seq-model.git]
 
 ## YOLO V8 finetuning
-Description
+Fine tune yolo model for object detection on a busy road
 - Tags: YOLO
 - Badges:
   - Object Detection [blue]
 - Buttons:
   - Link [https://github.com/Basit341/yolo-busy-road-object-detection.git]
 
-## Diesease Detection
-Description
+## Disease Detection
+Tomotto disease detection
 - Tags: OpenCV
 - Badges:
   - Prediction [blue]
@@ -47,7 +47,7 @@ Description
   - Link [https://github.com/Basit341/Tomotto-Diesease-Detection--multi-class-prediction.git]
 
 ## Machine Learning Classification and Regression Projects
-Description
+Various machine  learning  models of classification and regression tasks
 - Tags: Machine Learning
 - Badges:
   - Prediction [blue]
@@ -55,7 +55,7 @@ Description
   - Link [https://github.com/Basit341/Machine-learning-projects-Classification-and-Regression-.git]
 
   ## Optical Charector Recognizaton
-Description
+A tool to detect text from picture
 - Tags: OCR
 - Badges:
   - easy_ocr [blue]
@@ -63,7 +63,7 @@ Description
   - Link [https://github.com/Basit341/optical-charector-recognization-ocr.git]
 
   ## Google Palm Finetuning
-Description
+Streamlit app for answering question to database without quering to database,finetune google palm model.
 - Tags: LLM
 - Badges:
   - Finetuning [blue]
@@ -71,7 +71,7 @@ Description
   - Link [https://github.com/Basit341/Langchain-google-palm-fine-tuning-database-Q-A.git]
 
   ## Tableau Dashboard
-Description
+Traffic solutions and Google fiber graphs and dashboard
 - Tags: Business Intelligence
 - Badges:
   - Dashboard [blue]
