@@ -1,26 +1,26 @@
-## Project A
+## YOLOv8 trained on custom data was used to detect object passing on a busy road. Autodistill was used for annotation.Bytetrack and supervision were used for object tracking.
 Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+- ![600x200](../assets/yolo.png)
+- Tags: OpenCV, YOLO
 - Badges:
-  - Badge [blue]
+  - Object Detection[blue]
 - Buttons:
-  - Link [https://example.com]
+  - Check out the code Link [https://github.com/Basit341/yolo-busy-road-object-detection.git]
 
-## Project B
+## A Streamlit application which uses Langchain-google-palm embeddings to answer questions from your database without querying.
 Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+- ![600x200](../assets/streamlit.png)
+- Tags: NLP
 - Badges:
-  - Badge [blue]
+  - LLM [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Check out the code Link [https://github.com/Basit341/Langchain-google-palm-fine-tuning-database-Q-A.git]
 
-## Project C
+## Tomotto diesease detection, trained with deeplearning with 10 classes of tomotto dieseases.
 Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
+- ![600x200](../assets/tomotto.png)
+- Tags: OpenCV
 - Badges:
-  - Badge [blue]
+  - Prediction [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Check out the code Link [https://github.com/Basit341/Tomotto-Diesease-Detection--multi-class-prediction.git]

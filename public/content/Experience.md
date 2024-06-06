@@ -1,29 +1,31 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
+## Government of Pakistan
+- *Research Engineer* |jan'24 - Present
+- ![logo512](../assets/gop.jpeg)
+- Tags: GoP
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Finetuned OpenAI and Open Source LLMs
+  - Machine Learning and AI
+  - Yolo base Projects
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
+## FreeLancing, Self-Employed
+- *AI Engineer* | Feb'23 - Present
 - ![logo512](../assets/logo512.png)
-- Tags: Category 2
+- Tags: FreeLance
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Graphs and Dashboards
+  - SQL and MongoDB
+  - Finetuned Models for NLP tasks
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
+## CodSoft
+- *Machine Learning Engineer* | july'23 - aug'23
+- ![logo512](../assets/codsoft.png)
+- Tags: CodSoft
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Car Sales Prediction
+  - Credit Card Fraud Detection
