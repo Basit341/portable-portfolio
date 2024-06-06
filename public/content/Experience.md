@@ -1,5 +1,5 @@
 ## Government of Pakistan
-- *Research Engineer* |jan'24 - Present
+- *Research Engineer* | jan'24 - Present
 - ![logo512](../assets/gop.jpeg)
 - Tags: GoP
 - Badges:
