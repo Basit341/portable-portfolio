@@ -6,6 +6,7 @@
   - Badge [blue]
 - List Items:
   - School Management System (Python, Sqlite, Tkinter)   
+  - Cricket Club Mobile App (Python,Kivy, Kivymd, Sqlite)
 
 ## CodSoft Internship
 - *Machine Learning Engineer* | july'23 - aug'23
