@@ -1,29 +1,23 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
+## FreeLancing, Self-Employed
+- *Data Scientist* | Feb'24 - Present
 - ![logo512](../assets/logo512.png)
-- Tags: Category 1
+- Tags: FreeLance
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - School Management System (Python, Sqlite, Tkinter) 
+     Developed a desktop app to manage student data and automate sms notifications upon fee submissions. 
+     Enhanced administrative efficiency by digitizing manual processes. 
+  - Cricket Club Mobile App (Python,Kivy, Kivymd, Sqlite) 
+     Created an android app for managing player records, expenses, and fee tracking with an interactive dashboard. 
+     Improved transparency and ease of financial reporting. 
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+## CodSoft Internship
+- *Machine Learning Engineer* | july'23 - aug'23
+- ![logo512](../assets/codsoft.png)
+- Tags: CodSoft
 - Badges:
   - Badge [blue]
 - List Items:
-  - Point 1
-  - Point 2
-
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- List Items:
-  - Point 1
-  - Point 2
+  - Car Sales Prediction
+  - Credit Card Fraud Detection

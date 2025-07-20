@@ -1,26 +1,29 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+## Object Detection Using Yolo v8
+Built a real-time traffic monitoring system to detect vehicles and busy roads. 
+Autodistill was used for annotation.Bytetrack and supervision were used for object tracking. 
+Enhanced safety and efficiency through visual analytics.
+- ![600x200](../assets/yolo.png)
+- Tags: OpenCV, YOLO
 - Badges:
-  - Badge [blue]
+  - Object Detection[blue]
 - Buttons:
-  - Link [https://example.com]
+  - Check out the code Link [https://github.com/Basit341/yolo-busy-road-object-detection.git]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+## Chat Database
+A Streamlit application which uses Langchain-google-palm embeddings to answer questions from your database without querying.
+- ![600x200](../assets/streamlit.png)
+- Tags: NLP
 - Badges:
-  - Badge [blue]
+  - LLM [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Check out the code Link [https://github.com/Basit341/Langchain-google-palm-fine-tuning-database-Q-A.git]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
+## Tomotto Disease Detection
+Implemented a multi-class classifier to detect tomato plant diseases from images. 
+Can reduce crop loss by early disease detection using web app..
+- ![600x200](../assets/tomotto.png)
+- Tags: OpenCV
 - Badges:
-  - Badge [blue]
+  - Prediction [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Check out the code Link [https://github.com/Basit341/Tomotto-Diesease-Detection--multi-class-prediction.git]
