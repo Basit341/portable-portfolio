@@ -14,7 +14,7 @@ I'm always actively looking for new opportunities. If you wish to engage me for 
 - LinkedIn: https://www.linkedin.com/in/basit-k/
 - GitHub: https://github.com/Basit341
 - Email: rbktech4@gmail.com
-- CV: https://example.com/cv.pdf
+- ![CV](../assets/Basit khan.pdf)
 
 ## Logo
 - EB
