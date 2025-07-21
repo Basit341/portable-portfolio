@@ -1,5 +1,5 @@
 ## Fake News Detection Bert finetuning
-Fine tune bert model to detect fake news.
+Built an nlp-based model to classify news articles as real or fake. Improved detection accuracy over baseline models.
 - Tags: NLP
 - Badges:
   - Kaggle Competition [blue]
@@ -23,23 +23,23 @@ Fine tune Bert model to detect text either it is genetated by AI or not
   - Link [https://github.com/Basit341/detect-ai-generated-text--kaggle-compitition.git]
 
 ## Career Councling
-Career councling streamlit app
+Developed a seq2seq chatbot to assist users in exploring career paths. Increased user engagement by 10% using nlp techniques.
 - Tags: NLP
 - Badges:
   - Bart finetuning [blue]
 - Buttons:
   - Link [https://github.com/Basit341/career-councling-chatbot-using-bart-seq2seq-model.git]
 
-## YOLO V8 finetuning
-Fine tune yolo model for object detection on a busy road
+## Earth Quake Damage Classification
+Detect how much earth quake damage in nepal using Random Forest Model. Apply Boosting models xgboost and lightgbm to increase accuracy.
 - Tags: YOLO
 - Badges:
   - Object Detection [blue]
 - Buttons:
-  - Link [https://github.com/Basit341/yolo-busy-road-object-detection.git]
+  - Link [https://github.com/Basit341/Nepal-Earth-Quake-Damage-Classification]
 
 ## Disease Detection
-Tomotto disease detection
+Implemented a multi-class classifier to detect tomato plant diseases from images. Can reduce crop loss by early disease detection using web app.
 - Tags: OpenCV
 - Badges:
   - Prediction [blue]
