@@ -1,9 +1,9 @@
 ## Freelance, Self-Employed
 - *Data Scientist* | Feb 2024 – Present
-- ![freelance](../assets/codsoft.png)
+- ![freelance](../assets/logo512.png)
 - Tags: freelance
 - Badges:
-  - Badge [blue]
+  - BadgeContent [blue]
 - List Items:
   - School Management System (Python, Sqlite, Tkinter)   
   - Cricket Club Mobile App (Python,Kivy, Kivymd, Sqlite)
@@ -13,7 +13,7 @@
 - ![logo512](../assets/codsoft.png)
 - Tags: CodSoft
 - Badges:
-  - Badge [blue]
+  - BadgeContent [blue]
 - List Items:
   - Car Sales Prediction
   - Credit Card Fraud Detection
