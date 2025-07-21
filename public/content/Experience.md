@@ -1,6 +1,6 @@
 ## Freelance, Self-Employed
 - *Data Scientist* | Feb 2024 – Present
-- ![freelance](../assets/freelance.png)
+- ![freelance](../assets/codsoft.png)
 - Tags: freelance
 - Badges:
   - Badge [blue]
