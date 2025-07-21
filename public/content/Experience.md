@@ -1,7 +1,7 @@
 ## Freelance, Self-Employed
 - *Data Scientist* | Feb 2024 – Present
 - ![freelance](../assets/logo512.png)
-- Tags: freelance
+- Tags: FreeLancing
 - Badges:
   - BadgeContent [blue]
 - List Items:
