@@ -1,2 +1,2 @@
-FreeLancing, Self-Employed
+FreeLancing
 CodSoft
