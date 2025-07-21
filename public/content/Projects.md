@@ -1,5 +1,5 @@
 ## Object Detection Using Yolo v8
-YOLOv8 trained on custom data was used to detect object passing on a busy road. Autodistill was used for annotation.Bytetrack and supervision were used for object tracking.
+Built a real-time traffic monitoring system to detect vehicles and busy roads. Autodistill was used for annotation.Bytetrack and supervision were used for object tracking. Enhanced safety and efficiency through visual analytics.
 - ![600x200](../assets/yolo.png)
 - Tags: OpenCV, YOLO
 - Badges:
