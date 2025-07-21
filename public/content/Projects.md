@@ -17,7 +17,8 @@ A Streamlit application which uses Langchain-google-palm embeddings to answer qu
   - Check out the code Link [https://github.com/Basit341/Langchain-google-palm-fine-tuning-database-Q-A.git]
 
 ## Tomotto Disease Detection
-Tomotto disease detection, trained with deeplearning with 10 classes of tomotto dieseases.
+Implemented a multi-class classifier to detect tomato plant diseases from images. 
+Can reduce crop loss by early disease detection using web app.
 - ![600x200](../assets/tomotto.png)
 - Tags: OpenCV
 - Badges:
