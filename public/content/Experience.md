@@ -3,7 +3,7 @@
 - ![freelance](../assets/logo512.png)
 - Tags: FreeLancing
 - Badges:
-  - Badge [blue]
+  - Desktop Application[blue]
 - List Items:
   - School Management System (Python, Sqlite, Tkinter)   
   - Cricket Club Mobile App (Python,Kivy, Kivymd, Sqlite)
@@ -13,7 +13,7 @@
 - ![logo512](../assets/logo512.png)
 - Tags: CodSoft
 - Badges:
-  - Badge [blue]
+  - Mobile Application [blue]
 - List Items:
   - Car Sales Prediction
   - Credit Card Fraud Detection

@@ -54,7 +54,7 @@ Various machine  learning  models of classification and regression tasks
 - Buttons:
   - Link [https://github.com/Basit341/Machine-learning-projects-Classification-and-Regression-.git]
 
-  ## Optical Charector Recognizaton
+## Optical Charector Recognizaton
 A tool to detect text from picture
 - Tags: OCR
 - Badges:
@@ -62,7 +62,7 @@ A tool to detect text from picture
 - Buttons:
   - Link [https://github.com/Basit341/optical-charector-recognization-ocr.git]
 
-  ## Google Palm Finetuning
+## Google Palm Finetuning
 Streamlit app for answering question to database without quering to database,finetune google palm model.
 - Tags: LLM
 - Badges:
@@ -70,7 +70,7 @@ Streamlit app for answering question to database without quering to database,fin
 - Buttons:
   - Link [https://github.com/Basit341/Langchain-google-palm-fine-tuning-database-Q-A.git]
 
-  ## Tableau Dashboard
+## Tableau Dashboard
 Traffic solutions and Google fiber graphs and dashboard
 - Tags: Business Intelligence
 - Badges:
