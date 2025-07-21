@@ -24,6 +24,14 @@ export default function Header({ color }) {
                 "noreferrer,noopener"
               );
   };
+  
+  const openCV = () => {
+    window.open(
+                `${profile.cv}`,
+                "_blank",
+                "noreferrer,noopener"
+              );
+  };
   return (
     <>
       <Heading>
@@ -75,6 +83,19 @@ export default function Header({ color }) {
               onClick={linkedin}
             >
               Let's connect!
+            </Button>
+            <Button
+              colorScheme={color}
+              bg={"white"}
+              color={`${color}.400`}
+              rounded={"full"}
+              px={6}
+              _hover={{
+                bg: "gray.100",
+              }}
+              onClick={openCV}
+            >
+              View CV
             </Button>
             <Button
               variant={"link"}
